@@ -404,3 +404,12 @@ section {
 .btn:hover {
     background: #0056b3;
 }
+.btn.primary i {
+    margin-right: 8px;
+    transition: 0.3s;
+}
+
+.btn.primary:hover i {
+    transform: translateY(2px);
+}
+
